@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace geometri_inheritance
 {
-    class Square : Figure
+    class Rectangle : Square
     {
-        public Square() { }
+        public Rectangle() { }
     }
 }
